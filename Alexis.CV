@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<title>Alexis CV</title>
+	<link rel="stylesheet" href="MiseEnForme.css"/>
+
+
+</head>
+<body>
+
+	<div class="header">
+		<div id="Myname">
+			<h1>Alexis Piette</h1>
+			<h2>Master en électromécanique à finalité de gestion et technologies</h2>
+
+
+		</div>
+
+
+
+
+	</div>
+
+
+	<div class="navbar">
+		<a href="AlexisCV.html">CV</a>
+		<a href="LettreDeMotivation.html">Lettre de Motivation</a>
+		<a href="Projets.html">Idées de projets</a>
+	</div>
+
+
+
+	<div id = "allaboutme">
+		<div id = "titleaboutme">
+			<h1>A mon propos</h1>
+			<p> <img class="Image" src="https://scontent.fbru1-1.fna.fbcdn.net/v/t1.0-9/20031621_1577791135585036_884243244282510299_n.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=Gf8m98nbnMYAX-2TrF6&_nc_ht=scontent.fbru1-1.fna&oh=540f34bef7ecd6962802a68717118b75&oe=60130D88" width="300" height="300"> </p>
+		</div>
+		<div class = "textaboutme">
+			<p>
+			<ul id = "listallaboutme">
+				<li> Rue des polders 8 bte 7, 1180 Uccle</li>
+				<li> +32 499 266 620</li>
+				<li> alexis.piette@ulb.be </li>
+				<li> 21 septembre 1997</li>
+			</ul>
+			</p>
+
+			<p id = "paraaboutme">
+
+				Enthousiaste et engagé dans les différents projets que je mène.
+				Une fois lancé, je donne toujours le meilleur de moi-même.
+
+			</p>
+		</div>
+	</div>
+
+	<div class="Formations">
+		<h2 id="f">Formations</h2>
+
+		<li>
+			2020-présent: Master en électromécanique à finalité de gestion et technologies à l'Ecole Polytechnique de Bruxelles.
+		</li>
+
+		<li>
+			2017-2021: Bachelier en électromécanique à l'Ecole Polytechnique de Bruxelles.
+		</li>
+
+		<li>
+			2015-2017: 2 années en Bio-ingénieirie à la faculté des Sciences de l'ULB.
+		</li>
+
+		<li>
+			2009-2015: Etudes au lycée Henriette Dachsbeck.
+		</li>
+
+	</div>
+
+	<div class="Expériences professionnelles">
+	     <h2 id="e"> Expériences professionnelles et sociales </h2>
+
+		<li>Animateur scout (2015-présent):<ol>Animation. <br>  Ventes à grandes echelles pour financer des camps. </ol> </li>
+		<li>Salon des Sciences (Mars 2019): <ol> Présentation et vulgarisation scientifique d'un robot magasinier. </ol></li>
+		<li>Bénévolat (Hiver 2019):<ol>Récolte de vêtements chauds pour les sans abris.</ol>
+		<li>Vendeur au Carrefour Market Uccle (Août 2017) <ol> Caissier. <br>Assortiment des rayons.</ol></li>
+		<li>Sécurité et Logistique (Mars 2015) <ol> Diverses tâches effectuées lors d'un micro festival organisée par l'ASBL: <it>La Brique</it> au sein de la commune de Boisfort.</ol></li>
+	</div>
+
+	<div class="Competences">
+
+
+
+		<div id = "Language-skills">
+			<div class = "language">
+				<h2 id="c"> Compétences linguistiques </h2>
+
+				<p> Français: C2
+
+				</p>
+
+				<p>Anglais: B1
+				</p>
+
+			</div>
+
+			<div class = "skills">
+				<h2 id="ci">Compétences informatiques</h2>
+				<p id = "Office">
+					Bonne connaissance de la suite MS et de Latex
+					<br>
+					<br>
+					<img class = "imgoffice" id = "excel" src = "https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="100" height="100">
+					<img class = "imgoffice" id = "pwp" src = "https://i.pinimg.com/originals/07/86/4e/07864e65acd90a9325bfb689237a2b5d.png"width="100" height="100">
+					<img class = "imgoffice" id = "Overleaf" src = "https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png" width="100" height="100">
+				</p>
+
+
+				<p id = "programming">
+					Programmation (CSS, HTML Matlab, Python, SQL)
+					<br>
+					<br>
+
+					<img class = "imgoffice" id = "CSS" src = "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="100" height="100">
+					<img class = "imgoffice" id = "HTML" src = "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100" height="100">
+					<img class = "imgoffice" id = "Matlab" src = "data:image/jpeg;base64,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" width="100" height="100">
+					<img class = "imgoffice" id = "python" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="100" height="100">
+					<img class = "imgoffice" id = "SQL" src = "https://www.culture-informatique.net/WordPress3/wp-content/uploads/2018/11/sql.png" width="100" height="100">
+				</p>
+
+
+				<p id="programmin">
+					Logiciel de conception assistée (Solidworks, Salome Meca)
+					<br>
+					<br>
+					<img class = "imgoffice" id = "Solid" src = "https://www.guidigo.com/Image/DownloadImageForDevice/gallery_copy_ec93685e-4c56-4ccd-acae-9a07167278a5/publish/1024?resizeSmaller=0" width="100" height="100">
+					<img class = "imgoffice" id = "Salome" src = "https://www.code-aster.org/local/cache-vignettes/L490xH242/arton1086-35abc.png" width="100" height="100">
+
+
+				</p>
+			</div>
+		</div>
+
+
+	</div>
+
+
+	<div class="Competences">
+
+
+
+	</div>
+
+
+
+	<div id="Loisirs">
+
+			<h1 id="Mesloisirs"> Mes loisirs </h1>
+			<div class = "slide-wrap">
+
+				<div class = "slider">
+					<div class="slide" id="slide-1">
+						<h2 id="boxecolor"> <em>La Boxe Thaïllandaise et le Grappling</em></h2>
+						<p> je pratique assidûment la boxe Thaillandaise et le grappling au sein du Phoenix ADA Club.
+						Deux sports me permettant de garder les pieds sur terre en toutes circonstances et qui m'amène à me
+						surpasser dans chaque épreuve que j'entreprends. </p>
+
+						<img class=experienceimg" id="boxe" alt="Photo de profil de _phoenixada_"
+						     src="https://instagram.fbru1-1.fna.fbcdn.net/v/t51.2885-19/22802787_1701391289932796_6250136138279813120_n.jpg?_nc_ht=instagram.fbru1-1.fna.fbcdn.net&amp;_nc_ohc=3UI0hzMYsC0AX8_QppP&amp;oh=71999b401a809ff4bf0b864239f00ee2&amp;oe=600D2C01">
+					</div>
+
+					<div class="slide" id="slide-2">
+						<h2 id="cuisinecolor"> <em>La cuisine</em></h2>
+						<p> Passionné depuis longtemps par la cuisine, il est trop probable que je change de carrière dans quelques années afin d'être au plus proche de la nature et de ce qui mentoure.   </p><br>
+						<img class=experienceimg" id="cuisine" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MasterChef_Logo_%26_Wordmark.svg/1280px-MasterChef_Logo_%26_Wordmark.svg.png">
+					</div>
+
+					<div class="slide" id="slide-3">
+						<h2 id="scoutcolor"> <em>Le scoutisme</em></h2>
+					<p>
+						Je suis à la 29ème unité St-Clément depuis plus de 15années. Partager mes connaissances avec les animés ainsi qu'apprendre
+						en retour de leur part me permet d'évoluer à chaque échange.
+					</p><br> <br>
+					<img class="experienceimg" id="scout" src="https://scontent.fbru1-1.fna.fbcdn.net/v/t1.15752-9/69382647_2499935980126962_5426382245793366016_n.png?_nc_cat=106&ccb=2&_nc_sid=ae9488&_nc_ohc=hp7VfqEGxS8AX96Tg46&_nc_ht=scontent.fbru1-1.fna&oh=e6f2d34e297d3ad69c8803e8192d0a4b&oe=601276A0">
+
+				</div>
+					<div class="slide" id="Slide-4">
+						<h2 id="artcolor"> <em>L'art</em></h2>
+						<p>
+							Fervent défenseur de l'art urbain, je ne refuse jamais une invitation à aller voir une exposition en pleine air ou en musée.
+						</p>
+						<img class="experienceimg" id="art" src="https://www.incredibleart.com/wp-content/uploads/pez-dispenser-basquiat.jpg">
+
+					</div>
+
+
+
+
+
+				</div>
+				<a href="#slide-1" id = "aslide1">1</a>
+				<a href="#slide-2">2</a>
+				<a href="#slide-3">3</a>
+				<a href="#slide-4">4</a>
+
+			</div>
+		</div>
+
+
+</body>
+</html>
